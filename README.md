@@ -46,7 +46,7 @@ SIMPLE BGM BOT ONLY!
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@cyberdon000/SIVAS-SER-QR?v=1)
   
-
+USE SIMPLE METHOD
 
 
 ----
@@ -57,11 +57,11 @@ SIMPLE BGM BOT ONLY!
 <a href="https://github.com/AMRUSIR/followers">
 <img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/AMRUSIR/followers"
+<a href="https://github.com/cyberdon000/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/AMRUSIR/AMRU-SER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AMRUSIR/AMRU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/AMRUSIR/AMRU-SER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AMRUSIR/AMRU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/AMRUSIR/AMRU-SER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AMRUSIR/AMRU-SER?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/cyberdon000/cyber-don/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/cyberdon000/cyber-don?color=blue&style=flat-square"></a>
+<a href="https://github.com/cyberdon000/cyber-don/network/members"><img title="FORKS" src='https://img.shields.io/github/forks/cyberdon000/cyber-don?color=blue&style=flat-square"></a>
+<a href="https://github.com/cyberdon000/cyber-don/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AMRUSIR/AMRU-SER?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -71,7 +71,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LAX9ov9U5r70TGbPJhGNDZ)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SIVAS-SER&repo=cyber-don&theme=nightowl)](https://github.com/cyberdon000/cyber-don)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyberdon000&repo=cyber-don&theme=nightowl)](https://github.com/cyberdon000/cyber-don)
   </div>
     
 ### ⚠ Warning ⚠
@@ -95,10 +95,10 @@ you can contact 👇🏻👇🏻
 ## Developers
   <div align="center">
     
-  [![AMRU-SER](https://github.com/AMRUSIR.png?size=100)](https://github.com/cyberdon000) | [![sivas](https://github.com/Arx-Abu.png?size=100)](https://github.com/Arx-Abu) 
+  [![SIVAS-SER](https://github.com/AMRUSIR.png?size=100)](https://github.com/cyberdon000) | [![sivas](https://github.com/Arx-Abu.png?size=100)](https://github.com/ALPHA-SER) 
 ----|----|----|----
-[AMRU-SER](https://github.com/AMRUSIR) | [Arx-Abu](https://github.com/Arx-Abu)
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
+[SIVAS-SER](https://github.com/cyberdon000) | [ASHI-SER](https://github.com/ALPHA-SER)
+Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
 
