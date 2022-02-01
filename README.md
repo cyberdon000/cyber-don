@@ -46,25 +46,8 @@ SIMPLE BGM BOT ONLY!
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@cyberdon000/SIVAS-SER-QR?v=1)
   
-### The Hard Method
-```js
-GET QR
-$ apt install git
-$ apt install nodejs --fix-missing
-$ git clone https://github.com/AMRUSIR/AMRU-SER
-$ cd AMRU-ser
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node julie.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/AMRUSIR/AMRU-SER
-$ cd AMRU-SER
-$ npm i
-$ node julie.js
-```
+
+
 
 ----
 
