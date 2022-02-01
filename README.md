@@ -60,7 +60,7 @@ USE SIMPLE METHOD
 <a href="https://github.com/cyberdon000/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
 <a href="https://github.com/cyberdon000/cyber-don/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/cyberdon000/cyber-don?color=blue&style=flat-square"></a>
-<a href="https://github.com/cyberdon000/cyber-don/network/members"><img title="FORKS" src='https://img.shields.io/github/forks/cyberdon000/cyber-don?color=blue&style=flat-square"></a>
+<a href="https://github.com/cyberdon000/cyber-don/network/members"><img title="Forks" src='https://img.shields.io/github/forks/cyberdon000/cyber-don?color=blue&style=flat-square"></a>
 <a href="https://github.com/cyberdon000/cyber-don/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AMRUSIR/AMRU-SER?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
