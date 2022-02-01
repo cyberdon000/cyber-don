@@ -1,9 +1,9 @@
 <div align="center">
   <p align="center">
-<img src=https://www.linkpicture.com/q/f1cf45f42c720675c63e11c3ed0fd011-1.png>
+<img src=https://i.imgur.com/7oqM0Ij.jpeg>
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=WELCOME+TO+CYBERDON+WA+BOT+REPO;CREATED+BY+ꜱɪᴠᴀꜱ+ꜱɪʀ;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=WELCOME+TO+CYBERDON+WA+BOT+REPO;CREATED+BY+SIVAS+SER;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
 
  </a>
 </p>
