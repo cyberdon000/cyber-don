@@ -18,11 +18,11 @@
 
 
   <p align="center">
-<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--Amruthesh/AMRU-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--Amruthesh/SIVAS-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/AMRUSIR-AMRUSER">AMRU-SER</a> to make it public
+Project created by <a href="https://github.com/cyberdon000/cyber-don">SIVAS-SER</a> to make it public
     <br>
        | © |
         Reserved |
@@ -33,9 +33,9 @@ Project created by <a href="https://github.com/AMRUSIR-AMRUSER">AMRU-SER</a> to 
 <div align="center"> 
 
 
-## Click Instagram logo to follow this page👇
+## Click Instagram logo to follow SIVAS SER 👇
 
- [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://instagram.com/its_me_dron)
+ [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://www.instagram.com/sivas_life0001/)
 
   ### Simple Method
   
@@ -85,10 +85,10 @@ $ node julie.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LAX9ov9U5r70TGbPJhGNDZ)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRUSIR&repo=AMRU-ser&theme=nightowl)](https://github.com/AMRUSIR/AMRU-SER)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SIVAS-SER&repo=cyber-don&theme=nightowl)](https://github.com/cyberdon000/cyber-don)
   </div>
     
 ### ⚠ Warning ⚠
@@ -112,7 +112,7 @@ you can contact 👇🏻👇🏻
 ## Developers
   <div align="center">
     
-  [![AMRU-SER](https://github.com/AMRUSIR.png?size=100)](https://github.com/AMRUSIR) | [![Arx-Abu](https://github.com/Arx-Abu.png?size=100)](https://github.com/Arx-Abu) 
+  [![AMRU-SER](https://github.com/AMRUSIR.png?size=100)](https://github.com/cyberdon000) | [![sivas](https://github.com/Arx-Abu.png?size=100)](https://github.com/Arx-Abu) 
 ----|----|----|----
 [AMRU-SER](https://github.com/AMRUSIR) | [Arx-Abu](https://github.com/Arx-Abu)
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
