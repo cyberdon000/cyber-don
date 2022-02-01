@@ -18,7 +18,7 @@
 
 
   <p align="center">
-<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--Amruthesh/SIVAS-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--SIVAS/CYBERDON?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -39,12 +39,12 @@ Project created by <a href="https://github.com/cyberdon000/cyber-don">SIVAS-SER<
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AMRUSIR/AMRU-SER.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberdon000/cyber-don.git)
 
 SIMPLE BGM BOT ONLY!
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ABUOP1/AMRU-SER-QR?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@cyberdon000/SIVAS-SER-QR?v=1)
   
 ### The Hard Method
 ```js
